@@ -1,0 +1,15 @@
+C:\Users\gratt\source\repos\emberosztaly\emberosztaly\bin\Debug\emberosztaly.exe.config
+C:\Users\gratt\source\repos\emberosztaly\emberosztaly\bin\Debug\emberosztaly.exe
+C:\Users\gratt\source\repos\emberosztaly\emberosztaly\bin\Debug\emberosztaly.pdb
+C:\Users\gratt\source\repos\emberosztaly\emberosztaly\obj\Debug\emberosztaly.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\emberosztaly\emberosztaly\obj\Debug\emberosztaly.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\emberosztaly\emberosztaly\obj\Debug\emberosztaly.exe
+C:\Users\gratt\source\repos\emberosztaly\emberosztaly\obj\Debug\emberosztaly.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\068. emberosztaly\emberosztaly\bin\Debug\emberosztaly.exe.config
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\068. emberosztaly\emberosztaly\bin\Debug\emberosztaly.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\068. emberosztaly\emberosztaly\bin\Debug\emberosztaly.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\068. emberosztaly\emberosztaly\obj\Debug\emberosztaly.csproj.AssemblyReference.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\068. emberosztaly\emberosztaly\obj\Debug\emberosztaly.csproj.SuggestedBindingRedirects.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\068. emberosztaly\emberosztaly\obj\Debug\emberosztaly.csproj.CoreCompileInputs.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\068. emberosztaly\emberosztaly\obj\Debug\emberosztaly.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\068. emberosztaly\emberosztaly\obj\Debug\emberosztaly.pdb
